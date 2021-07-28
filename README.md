@@ -3,5 +3,5 @@
 Step1: 
 Configure IDE</br>
 Step2: 
-git clone https://github.com/jy251209/WeatherForecast.git
+git clone https://github.com/jy251209/Selenium-Automatic-Testing.git
 
